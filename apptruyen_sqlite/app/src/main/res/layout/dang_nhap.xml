@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_img">
+
+    <TextView
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:text="đăng nhập"
+        android:textColor="#2196F3"
+        android:textSize="40dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edittaikhoan"
+        android:drawableRight="@drawable/ic_person"
+        android:layout_marginTop="80dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:hint="tai khoan"
+        android:layout_gravity="center"
+        />
+    <EditText
+        android:inputType="textPassword"
+        android:id="@+id/editmatkhau"
+        android:drawableRight="@drawable/ic_pass"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:hint="mat khau"/>
+
+    <Button
+        android:id="@+id/dangnhap"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="đăng nhập" />
+
+    <Button
+        android:id="@+id/dangky"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="đăng ký"/>
+
+</LinearLayout>

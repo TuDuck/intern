@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_dk">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="đăng ký"
+    android:textStyle="bold"
+    android:textColor="#2196F3"
+    android:textSize="40dp"
+    android:layout_gravity="center"
+    android:layout_marginTop="90dp"/>
+    <EditText
+        android:id="@+id/dktaikhoan"
+        android:drawableRight="@drawable/ic_person"
+        android:layout_marginTop="90dp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#2196F3"
+        android:hint="tài khoản"
+        android:textColorHint="@color/white"/>
+    <EditText
+        android:id="@+id/dkmatkhau"
+        android:drawableRight="@drawable/ic_pass"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:textColorHint="@color/white"
+        android:textColor="#2196F3"
+        android:hint="mật khẩu"/>
+    <EditText
+        android:id="@+id/dKemail"
+        android:drawableRight="@drawable/ic_email"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textColor="#2196F3"
+        android:hint="email"
+        android:textColorHint="@color/white"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/dkdangky"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:shadowColor="#2196F3"
+        android:text="dăng ký" />
+    <Button
+        android:id="@+id/backDN"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="trở về đăng nhập"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>
