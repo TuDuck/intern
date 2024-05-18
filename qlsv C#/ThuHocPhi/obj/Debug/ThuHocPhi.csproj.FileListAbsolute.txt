@@ -1,0 +1,205 @@
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\bin\Debug\ThuHocPhi.exe.config
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\bin\Debug\ThuHocPhi.exe
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\bin\Debug\ThuHocPhi.pdb
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.pdb
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.Form4.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.Form5.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.Form6.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.Form7.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.Form8.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.Form9.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.ThongKeNo.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi\obj\Debug\ThuHocPhi.MonHoc.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form10.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form11.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Sinhvien.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\Thuhocphi.FormBill.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\btcuoiki.FormHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\btcuoiki.FormThemHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.FormThongkeno.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\btcuoiki.FormUpdateHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form4.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form6.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form7.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form8.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form9.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.pdb
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Form2.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Sinhvien.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\Thuhocphi.FormBill.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\btcuoiki.FormHocPhan.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\btcuoiki.FormThemHocPhan.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.FormThongkeno.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\Thuhocphi.FormThuHocPhi.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\btcuoiki.FormUpdateHocPhan.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.pdb
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\bin\Debug\ThuHocPhi.exe.config
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\bin\Debug\ThuHocPhi.exe
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\bin\Debug\ThuHocPhi.pdb
+C:\Users\Acer\source\repos\ThuHocPhi\ThuHocPhi dương\ThuHocPhi\obj\Debug\ThuHocPhi.CapNhatLop.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.CapNhatLop.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Sinhvien.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\Thuhocphi.FormBill.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\btcuoiki.FormHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\btcuoiki.FormThemHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.FormThongkeno.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\Thuhocphi.FormThuHocPhi.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\btcuoiki.FormUpdateHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.pdb
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe.config
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương (1)\ThuHocPhi\bin\Debug\ThuHocPhi.pdb
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe.config
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\bin\Debug\ThuHocPhi.pdb
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.CNnganhh.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.CapNhatLop.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Sinhvien.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\Thuhocphi.FormBill.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\btcuoiki.FormHocPhan.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\btcuoiki.FormThemHocPhan.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.FormThongkeno.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\Thuhocphi.FormThuHocPhi.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\btcuoiki.FormUpdateHocPhan.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\HOANG\source\repos\ThuHocPhi dương (1)\ThuHocPhi\obj\Debug\ThuHocPhi.pdb
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe.config
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\bin\Debug\ThuHocPhi.pdb
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.CNnganhh.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.CapNhatLop.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Sinhvien.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\Thuhocphi.FormBill.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\btcuoiki.FormHocPhan.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\btcuoiki.FormThemHocPhan.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.FormThongkeno.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\Thuhocphi.FormThuHocPhi.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\btcuoiki.FormUpdateHocPhan.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\Acer\Documents\Zalo Received Files\ThuHocPhi dương (1) (1)\ThuHocPhi\obj\Debug\ThuHocPhi.pdb
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\bin\Debug\ThuHocPhi.exe.config
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\bin\Debug\ThuHocPhi.exe
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\bin\Debug\ThuHocPhi.pdb
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.CNnganhh.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.CapNhatLop.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.FormThongkeno.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\Thuhocphi.FormThuHocPhi.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.Sinhvien.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\btcuoiki.FormHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\btcuoiki.FormThemHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\btcuoiki.FormUpdateHocPhan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\quann\Documents\Zalo Received Files\ThuHocPhi dương cuối\ThuHocPhi\obj\Debug\ThuHocPhi.pdb
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe.config
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\bin\Debug\ThuHocPhi.exe
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\bin\Debug\ThuHocPhi.pdb
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.CNnganhh.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangKi.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DoiMatKhau.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DangNhap.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.DonGia.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.CapNhatLop.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.FormThongkeno.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\Thuhocphi.FormThuHocPhi.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Sinhvien.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\btcuoiki.FormHocPhan.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\btcuoiki.FormThemHocPhan.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\btcuoiki.FormUpdateHocPhan.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TrangChu.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.TaiKhoan.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.Properties.Resources.resources
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.exe
+C:\Users\admin\Documents\Zalo Received Files\ThuHocPhi dương cuối (1)\ThuHocPhi\obj\Debug\ThuHocPhi.pdb

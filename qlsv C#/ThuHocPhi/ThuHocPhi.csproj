@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A19C8D9B-60E8-4E32-AC7E-B4FF97E6F264}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ThuHocPhi</RootNamespace>
+    <AssemblyName>ThuHocPhi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CNnganhh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CNnganhh.Designer.cs">
+      <DependentUpon>CNnganhh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customparameter.cs" />
+    <Compile Include="DangKi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangKi.Designer.cs">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="database.cs" />
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau.Designer.cs">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DonGia%28Dương%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DonGia%28Dương%29.Designer.cs">
+      <DependentUpon>DonGia%28Dương%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cập nhật lớp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cập nhật lớp.designer.cs">
+      <DependentUpon>Cập nhật lớp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThongKeNo%28Nam%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThongKeNo%28Nam%29.designer.cs">
+      <DependentUpon>FormThongKeNo%28Nam%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThuHocPhi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThuHocPhi.designer.cs">
+      <DependentUpon>FormThuHocPhi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SinhVien%28Tú%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinhVien%28Tú%29.designer.cs">
+      <DependentUpon>SinhVien%28Tú%29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHocPhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHocPhan.designer.cs">
+      <DependentUpon>FormHocPhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemHocPhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemHocPhan.designer.cs">
+      <DependentUpon>FormThemHocPhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUpdateHocPhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUpdateHocPhan.designer.cs">
+      <DependentUpon>FormUpdateHocPhan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrangChu.Designer.cs">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaiKhoan.Designer.cs">
+      <DependentUpon>TaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Ref.cs" />
+    <EmbeddedResource Include="CNnganhh.resx">
+      <DependentUpon>CNnganhh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangKi.resx">
+      <DependentUpon>DangKi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoiMatKhau.resx">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DonGia%28Dương%29.resx">
+      <DependentUpon>DonGia%28Dương%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cập nhật lớp.resx">
+      <DependentUpon>Cập nhật lớp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThongKeNo%28Nam%29.resx">
+      <DependentUpon>FormThongKeNo%28Nam%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThuHocPhi.resx">
+      <DependentUpon>FormThuHocPhi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SinhVien%28Tú%29.resx">
+      <DependentUpon>SinhVien%28Tú%29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHocPhan.resx">
+      <DependentUpon>FormHocPhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemHocPhan.resx">
+      <DependentUpon>FormThemHocPhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUpdateHocPhan.resx">
+      <DependentUpon>FormUpdateHocPhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrangChu.resx">
+      <DependentUpon>TrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaiKhoan.resx">
+      <DependentUpon>TaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__2_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__255-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images__3_2222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__3_-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagexbx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-removebg-previe10215.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống 41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__3_-removebg-preview11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__5_-removebg-preview424.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__6_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống 411.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__7_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__74489.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__8_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images__5_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoatttt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải_xuống__3_-removebg-preview12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\them_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sua_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sua_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tim_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\91cdfa1c10d8db35dee652679af8e858.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ex_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mat_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\335646402_909588263687683_8468219888034031954_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoa_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atm_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\In_25.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
